@@ -1,7 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"developers sans frontieres " project.
+
+ a subscription based application where coding / 
+ developping knowledge can be shared to teach and support good programmers / developpers.
+
+
+
+
 
 Things you may want to cover:
 
