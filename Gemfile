@@ -14,7 +14,9 @@ gem "sprockets-rails"
 
 
 # Using bootstrap library gem for styling
-gem 'bootstrap-sass', ' 3.3.6'
+
+gem 'bootstrap-sass', '~> 3.4.1'
+gem 'sassc-rails', '>= 2.1.0'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
