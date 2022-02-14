@@ -7,3 +7,11 @@ application.debug = false
 window.Stimulus   = application
 
 export { application }
+
+
+
+//= require jquery3
+//= require jquery_ujs
+//= require bootstrap-sprockets
+//= require turbolinks
+//= require_tree .
