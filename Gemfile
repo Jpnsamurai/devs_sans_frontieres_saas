@@ -13,6 +13,10 @@ gem "sprockets-rails"
 # gem 'sqlite3', group: [:development, :test]
 
 
+# using jsbundling for js
+gem 'jsbundling-rails'
+
+
 # Using bootstrap library gem for styling
 gem 'bootstrap', '~> 5.1.3'
 gem 'sassc-rails', '>= 2.1.0'
@@ -75,7 +79,7 @@ end
 
 group :production do
   gem 'pg', '~> 1.3', '>= 1.3.1'
-  gem 'rails_12factor'
+  # gem 'rails_12factor'
 end
 
 
